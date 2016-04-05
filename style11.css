@@ -1,7 +1,12 @@
 /*Kherin V. Graves*/
 
 body {
-    background-image: url("green.jpg");
+    background-image: url(logo.jpg);
+	background-repeat: repeat-y;
+}
+
+body {
+ background-color: #00cc00;
 }
 
 h2 {
